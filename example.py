@@ -1,8 +1,8 @@
 """
-File: patterns.py
-Author: Dave Cheng
+File: example.py
+Author: Your Name
 Date: 2024-03-21
-Description: Draws graphics using loops and Pygame.
+Description: Template for basic Pygame graphics setup.
 """
 
 import pygame
